@@ -13,10 +13,9 @@ def numbers():
     print ('invalid')
 
 for element in range(numbers):
-        if number % element == 0:
-         
+    if number % element == 0:
+         pass
 
-    return True
 
 
 
